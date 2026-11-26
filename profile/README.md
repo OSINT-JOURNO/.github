@@ -25,6 +25,7 @@ to solve, CTFs and live talks. **[Play it at expo.osintjourno.com](https://expo.
 - [**verify-mcp**](https://github.com/Ghongha007/verify-mcp): an MCP server with keyless, read-only verification lookups (Wayback, RDAP, DNS, certificates, sun and shadow maths)
 - [**groundline**](https://github.com/Ghongha007/groundline): checks every sentence of a draft or AI summary against its source documents, catching changed numbers, invented quotes and overstated claims ([try it in your browser](https://huggingface.co/spaces/Ghongha007/groundline))
 - [**id-decoder**](https://github.com/Ghongha007/id-decoder): what a ship or aircraft identifier (MMSI, IMO number, call sign, ICAO hex address, registration or squawk code) tells you, with the ITU, ICAO or FAA source for each answer ([try it in your browser](https://huggingface.co/spaces/Ghongha007/id-decoder))
+- [**video-keyframes**](https://github.com/Ghongha007/video-keyframes): the sharpest frame from each scene of a video, with timestamps, ready for reverse image search; the video stays in your browser ([try it](https://huggingface.co/spaces/Ghongha007/video-keyframes))
 - [**aitrace**](https://github.com/Ghongha007/aitrace): looks inside an image or video for traces of AI generation, such as Content Credentials (C2PA). Metadata triage, not a detector ([try it in your browser](https://huggingface.co/spaces/Ghongha007/aitrace))
 - [**chat2net**](https://github.com/Ghongha007/chat2net): turns Telegram, X, YouTube or CSV exports into Gephi network files
 
