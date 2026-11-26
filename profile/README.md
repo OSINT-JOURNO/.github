@@ -23,14 +23,14 @@ to solve, CTFs and live talks. **[Play it at expo.osintjourno.com](https://expo.
 - [**osint-visuals**](https://github.com/Ghongha007/osint-visuals): evidence graphics your AI agent makes, such as ship and flight tracks that flag signal gaps, shadow diagrams that test a claimed time, 3D scene dioramas, locator maps, satellite before/after sliders, scroll stories and source-linked networks
 - [**osint-skills**](https://github.com/Ghongha007/osint-skills): agent skills for verification, covering geolocation, chronolocation, image checks, evidence archiving and claim attribution
 - [**verify-mcp**](https://github.com/Ghongha007/verify-mcp): an MCP server with keyless, read-only verification lookups (Wayback, RDAP, DNS, certificates, sun and shadow maths)
-- [**groundline**](https://github.com/Ghongha007/groundline): checks every sentence of a draft or AI summary against its source documents, catching changed numbers, invented quotes and overstated claims
-- [**aitrace**](https://github.com/Ghongha007/aitrace): looks inside an image or video for traces of AI generation, such as Content Credentials (C2PA). Metadata triage, not a detector
+- [**groundline**](https://github.com/Ghongha007/groundline): checks every sentence of a draft or AI summary against its source documents, catching changed numbers, invented quotes and overstated claims ([try it in your browser](https://huggingface.co/spaces/Ghongha007/groundline))
+- [**aitrace**](https://github.com/Ghongha007/aitrace): looks inside an image or video for traces of AI generation, such as Content Credentials (C2PA). Metadata triage, not a detector ([try it in your browser](https://huggingface.co/spaces/Ghongha007/aitrace))
 - [**chat2net**](https://github.com/Ghongha007/chat2net): turns Telegram, X, YouTube or CSV exports into Gephi network files
 
 ### Open data
 
-- [**china-state-vessels**](https://github.com/OSINT-JOURNO/china-state-vessels): Chinese state-linked vessels (research and survey ships, PLA ships, China Coast Guard ships, and boats named sources identify as maritime militia), every row sourced and dated
-- [**india-takedowns-2026**](https://github.com/Ghongha007/india-takedowns-2026): political social-media takedowns in India, January to October 2026, documented with sources. Companion to *Case File 05: Unavailable in India*
+- [**china-state-vessels**](https://github.com/OSINT-JOURNO/china-state-vessels): Chinese state-linked vessels (research and survey ships, PLA ships, China Coast Guard ships, and boats named sources identify as maritime militia), every row sourced and dated (also on [Hugging Face](https://huggingface.co/datasets/OSINT-JOURNO/china-state-vessels))
+- [**india-takedowns-2026**](https://github.com/Ghongha007/india-takedowns-2026): political social-media takedowns in India, January to October 2026, documented with sources. Companion to *Case File 05: Unavailable in India* (also on [Hugging Face](https://huggingface.co/datasets/OSINT-JOURNO/india-takedowns-2026))
 
 ### Country guides
 
@@ -42,7 +42,7 @@ Public records, open data and tools for investigating one country, with every li
 
 ### Tool lists
 
-- [**ai-for-osint**](https://github.com/Ghongha007/ai-for-osint): AI tools for investigators, with where each one runs and its known limits
+- [**ai-for-osint**](https://github.com/Ghongha007/ai-for-osint): AI tools for investigators, with where each one runs and its known limits (also on [Hugging Face](https://huggingface.co/datasets/Ghongha007/ai-for-osint))
 - [**awesome-osint-toolkit**](https://github.com/OSINT-JOURNO/awesome-osint-toolkit): a community collection of OSINT tools and resources
 
 ### Learn with us
@@ -62,6 +62,7 @@ Public records, open data and tools for investigating one country, with every li
   <a href="https://osintjourno.com">Website</a> ·
   <a href="https://www.instagram.com/osint_journo/">Instagram</a> ·
   <a href="https://osintjourno.substack.com">Substack</a> ·
+  <a href="https://huggingface.co/OSINT-JOURNO">Hugging Face</a> ·
   <a href="https://www.linkedin.com/company/osint-journo">LinkedIn</a> ·
   <a href="https://x.com/osint_journo">X</a>
 </p>
