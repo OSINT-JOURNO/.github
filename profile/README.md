@@ -6,6 +6,18 @@ We help journalists investigate with public information. Here you'll find verifi
 agents, evidence graphics that carry their own sources, open datasets, and country-by-country guides to public
 records. Our tools, datasets and guides are free and openly licensed.
 
+### Play OSINT Expo
+
+<p align="center">
+  <a href="https://expo.osintjourno.com"><img src="https://raw.githubusercontent.com/OSINT-JOURNO/osint-expo/main/images/the-hall.jpg" width="32%" alt="Inside OSINT Expo: the green carpet leading to the Main Hall, with a timeline of investigations on the left and the tool wall on the right"></a>
+  <a href="https://expo.osintjourno.com"><img src="https://raw.githubusercontent.com/OSINT-JOURNO/osint-expo/main/images/main-hall.jpg" width="32%" alt="Red seats facing the big screen in the Main Hall, showing a challenge"></a>
+  <a href="https://expo.osintjourno.com"><img src="https://raw.githubusercontent.com/OSINT-JOURNO/osint-expo/main/images/lesson-geolocation.jpg" width="32%" alt="The Geolocation lesson panel showing a real case with its source"></a>
+</p>
+
+A free 3D expo you walk around in your browser to learn open-source investigation: ten stalls, hands-on labs, a case
+to solve, CTFs and live talks. **[Play it at expo.osintjourno.com](https://expo.osintjourno.com)** or
+[see what's inside](https://github.com/OSINT-JOURNO/osint-expo).
+
 ### Verify and visualise
 
 - [**osint-visuals**](https://github.com/Ghongha007/osint-visuals): evidence graphics your AI agent makes, such as ship and flight tracks that flag signal gaps, shadow diagrams that test a claimed time, 3D scene dioramas, locator maps, satellite before/after sliders, scroll stories and source-linked networks
@@ -35,7 +47,6 @@ Public records, open data and tools for investigating one country, with every li
 
 ### Learn with us
 
-- [**OSINT Expo**](https://expo.osintjourno.com): a 3D browser game for learning OSINT, with labs, CTFs and live talks
 - [**Substack**](https://osintjourno.substack.com): field guides, how-tos and the stories behind our work
 - [**Training**](https://osintjourno.com): OSINT training programmes for individuals and organisations
 
